@@ -61,7 +61,7 @@ $$V_0 = {D_p \over \mu_p} \ln {{N_a N_d} \over n_i^2}$$
 
 Apply Einstein's Relation ---- $${D \over \mu} = {kT \over q}$$ , $$V_0 = {KT \over q} \ln {{N_a N_d} \over n_i^2}$$
 
-$$V_0$$ is called " **Built in Potentia**l " ---- 内在电势
+$V_0$ is called " **Built in Potentia**l " ---- 内在电势
 
 _P.S._ $${kT \over q} \rightarrow 26mV$$ @ $$T = 300k$$
 
