@@ -35,9 +35,17 @@
 
 ⚠️ 反向电压不能击穿二极管。
 
-* Two points
-  * Role of $R_1$ in the original circuit?_ ![Pratical Diode Circuits 5](http://pcih4qs1o.bkt.clouddn.com/Pratical%20Diode%20Circuits%205.jpg) _**Fundamental reason for the exist of $R\_1$**: If voltage is 0, the current thru the component is 0. And the resistance is a finite value. If the there is no resistor, the value of the $V_{out}$ is undefined.
-  * Can we plot _input-output characteristic_ for the rectifier with capacitor? For a circuit that have a **storage element**. It's too _complicated_ and _useless_ . What we are interested is the time response For a capacitor, $I = C{d\_v \over d\_t}$, so the current is depend both on voltage and time.
+#### Two points
+
+* Role of $R_1$ in the original circuit?_ 
+
+  \_\_![Pratical Diode Circuits 5](http://pcih4qs1o.bkt.clouddn.com/Pratical%20Diode%20Circuits%205.jpg) __
+
+_**Fundamental reason for the exist of $R\_1$**: If voltage is 0, the current thru the component is 0. And the resistance is a finite value. If the there is no resistor, the value of the $V_{out}$ is undefined.
+
+* Can we plot _input-output characteristic_ for the rectifier with capacitor? 
+
+For a circuit that have a **storage element**. It's too _complicated_ and _useless_ . What we are interested is the time response For a capacitor, $I = C{d\_v \over d\_t}$, so the current is depend both on voltage and time.
 
 **Half-Wave Rectifier with Cap and Load \(实际状态\)**
 
@@ -68,6 +76,8 @@
 
 **Value of Ripple Amplitude :**
 
-* HWR : $ \over {R_1 C\_1}} \cdot T_{in}$
-* FWR : $ \over {R_1 C\_1}} \cdot {T_{in} \over 2}$
+* HWR : $${{V_0 - V_{D-on}} \over {R_1 C_1}} \cdot T_{in}$$
+* FWR : $${{V_0 - 2V_{D-on}} \over {R_1 C_1}} \cdot {T_{in} \over 2}$$
+
+
 
