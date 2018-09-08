@@ -1,7 +1,5 @@
 # Chapter 2 - Doping
 
-
-
 \[TOC\]
 
 ### Intro

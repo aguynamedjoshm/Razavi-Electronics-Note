@@ -1,7 +1,5 @@
 # Chapter 1 - Charge Carrier
 
-Chapter 1 - Charge Carrier
-
 在半导体物理的学习过程中，搞清楚半导体内部的原子结构是很重要的，它有助于让我们更好的理解半导体器件在电路中是如何工作的。
 
 ### Intro
