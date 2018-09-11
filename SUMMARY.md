@@ -10,4 +10,5 @@
 * [Chapter 7 - Diode Model](chapter-7-diode-model.md)
 * [Chapter 8 - Analysis of Diode Circuits](chapter-8-analysis-of-diode-circuits.md)
 * [Chapter 9 - Pratical Diode Circuits](chapter-9-pratical-diode-circuits.md)
+* [Chapter 10 - Other practical diode circuit](chapter-10-other-practical-diode-circuit.md)
 
